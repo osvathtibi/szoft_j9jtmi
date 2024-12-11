@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3_3", "ZH3_3.csproj", "{95FB03C9-9A18-4D5F-9C5A-077F40A70855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3_3gyak", "..\ZH3_3gyak\ZH3_3gyak.csproj", "{75BBDD2F-F905-4184-8ADF-353DDE2E2B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FB03C9-9A18-4D5F-9C5A-077F40A70855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FB03C9-9A18-4D5F-9C5A-077F40A70855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FB03C9-9A18-4D5F-9C5A-077F40A70855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FB03C9-9A18-4D5F-9C5A-077F40A70855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BBDD2F-F905-4184-8ADF-353DDE2E2B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BBDD2F-F905-4184-8ADF-353DDE2E2B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BBDD2F-F905-4184-8ADF-353DDE2E2B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BBDD2F-F905-4184-8ADF-353DDE2E2B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
